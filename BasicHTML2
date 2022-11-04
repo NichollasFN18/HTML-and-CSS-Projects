@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Basic HTML VS test</title>
+        <meta charset="UTF-8">
+        <meta name"author" content="Nick">
+    </head>
+    <body>
+        <header>
+                <h5>This is my test on VS.</h5>
+        </header>
+        <p>This is 10 times easier than basic notepad</p>
+    </body>
+</html>
